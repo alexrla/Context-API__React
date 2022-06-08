@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@100;200;300;400;500;600;700&display=swap');
+
+*   {
+    box-sizing: border-box;
+}
+
+body {
+    /* background: radial-gradient(circle, rgba(2,1,49,1) 79%, rgba(2,1,59,1) 79%, rgba(0,212,255,1) 100%); */
+    background: radial-gradient(circle, rgba(61,2,58,1) 66%, rgba(255,0,244,1) 96%);
+
+    font-family: 'Prompt', sans-serif;
+}
